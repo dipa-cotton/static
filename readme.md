@@ -30,6 +30,6 @@ There was no CAD Case built for this project, so the case can be built later on 
 - 1 TSOP38238
 - 1 SX1278
 - 1 32 MHz Crystal
-Overall cost: (including shipping and PCB) is $58
+### Overall cost: (including shipping and PCB) is $58
 
 a more detailed list can be found in BOM.csv :)
