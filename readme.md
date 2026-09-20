@@ -1,28 +1,35 @@
 # static
-custom FM Radio
+custom FM Radio, with a SX1278 for LoRA capabilities!
 
-## purpose
-i wanted to make this radio to familiarize myself with kicad. i really enjoyed playing around with the pcb as well, it was a fun mini project!
-
-## components
-the main files are my PCB and Schematic made in kicad :D
-
-no ai was used in this project :))))))
+## project overview
+this FM radio contains a RDA5807, TDA2822, an infrared sensor, and a SX1278. these are the main components, and along with a 0.96 inch OLED display, a microSD card module, and more, this project is versatile and can both play audio as well as function as an FM radio, along with LORA capabilities.
 
 ## pictures
-<img width="681" height="541" alt="Screenshot 2026-09-18 at 11 36 10 PM" src="https://github.com/user-attachments/assets/0fa06893-a03d-458d-9125-bc0941226034" />
-<img width="1112" height="510" alt="Screenshot 2026-09-18 at 11 35 54 PM" src="https://github.com/user-attachments/assets/bfe016e6-82b3-44ac-ac80-106b9d9864c3" />
-<img width="618" height="478" alt="Screenshot 2026-09-18 at 11 35 43 PM" src="https://github.com/user-attachments/assets/ce363fab-1f0f-43da-ac3c-fb7c039ee6e7" />
+<img width="1211" height="606" alt="Screenshot 2026-09-20 at 2 40 43 PM" src="https://github.com/user-attachments/assets/d3bc4d65-dc44-4133-83f6-dce56819b65d" />
+<img width="742" height="496" alt="Screenshot 2026-09-20 at 2 41 09 PM" src="https://github.com/user-attachments/assets/bb6c9575-4ae5-4b9f-9e93-6ba10da8e549" />
+<img width="742" height="496" alt="Screenshot 2026-09-20 at 2 41 28 PM" src="https://github.com/user-attachments/assets/ba53e9df-230c-4e91-a51e-5ae14f48ed95" />
+There was no CAD Case built for this project, so the case can be built later on once the antenna and potentiometer + button placement can be visualized. (I haven't decided on the button placement for this project yet, so I don't want to constrain placement just yet. Once it is assembled, a case will be built.)
 
-
-## BOM
-- 5 Polarized Capacitors
+## BOM Overview
+- 3 10K ohm resistor
+- 1 100 ohm resistor
+- 5 polarized capacitors
+- 1 4.7 µF decoupling capacitor
+- 3 100nF capacitors
+- 1 10nF capacitor
+- 2 10pf capacitors
 - 1 PJ-3200
-- 1 Audio Jack
-- 1 Rotary Encoder
-- 2 Potentiometers
-- 1 Button
-- 1 XIAO-RP2040-DIP
-- 1 RDA5807MRRD-102V2.0
-- 1 TDA2822NBD
+- 1 0.96in OLED Display
+- 1 MicroSD Card Module
+- 2 speakers
+- 2 potentiometers
+- 4 push buttons
+- 1 XIAO rp2040 microcontroller
+- 1 RDA5807
+- 1 TDA2822
+- 1 TSOP38238
+- 1 SX1278
+- 1 32 MHz Crystal
+Overall cost: (including shipping and PCB) is $58
+
 a more detailed list can be found in BOM.csv :)
