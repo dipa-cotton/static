@@ -15,7 +15,7 @@ I did this to create the schematic for my project, so it can be easily manufactu
 
 ##### What problems did you face?:
 I faced issues with ERC (electric rules checker), mostly unused pins lol. Other than that, not much!
-<img width="618" height="478" alt="Screenshot 2026-09-18 at 11 35 43 PM" src="https://github.com/user-attachments/assets/ce363fab-1f0f-43da-ac3c-fb7c039ee6e7" />
+<img width="1112" height="510" alt="Screenshot 2026-09-18 at 11 35 54 PM" src="https://github.com/user-attachments/assets/bfe016e6-82b3-44ac-ac80-106b9d9864c3" />
 
 
 ## 9/16 - [PCB]
@@ -28,7 +28,8 @@ This was done so that the radio can be manufactured!
 
 ##### What problems did you face?:
 Not much, I accidentally used the wrong footprint for the XIAO at first but that was an easy fix :D
-<img width="1112" height="510" alt="Screenshot 2026-09-18 at 11 35 54 PM" src="https://github.com/user-attachments/assets/bfe016e6-82b3-44ac-ac80-106b9d9864c3" />
+
+<img width="618" height="478" alt="Screenshot 2026-09-18 at 11 35 43 PM" src="https://github.com/user-attachments/assets/ce363fab-1f0f-43da-ac3c-fb7c039ee6e7" />
 <img width="681" height="541" alt="Screenshot 2026-09-18 at 11 36 10 PM" src="https://github.com/user-attachments/assets/0fa06893-a03d-458d-9125-bc0941226034" />
 
 
