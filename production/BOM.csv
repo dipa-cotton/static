@@ -1,0 +1,27 @@
+Reference,Qty,Value,DNP,Footprint,,,,,Datasheet,Links to buy,Retailer,Cost (dollars),
+"10Kohm1,100ohm1",2,R,,Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,,,,,,Owned,Owned,0,
+"C1,C2,C3,C4,C5",5,C_Polarized,,Capacitor_THT:CP_Radial_D6.3mm_P2.50mm,,,,,,https://www.aliexpress.us/item/3256810508693915.html?spm=a2g0o.productlist.main.1.68fd1108eHDrYx&algo_pvid=9171f141-f117-4e75-bdc4-ed18b7b0842b&algo_exp_id=9171f141-f117-4e75-bdc4-ed18b7b0842b-0&pdp_ext_f=%7B%22order%22%3A%2231%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%213.35%213.18%21%21%2122.30%2121.18%21%402101e5ab17899261819331760e0f70%2112000053214363383%21sea%21US%214570435753%21X%211%210%21n_tag%3A-29911%3Bd%3A2a9d23e2%3Bm03_new_user%3A-29895&curPageLogUid=OJ7CYfMdVWOt&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005010695008667%7C_p_origin_prod%3A,Aliexpress,4,
+C6,1,4.7µF,,Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical,,,,,,Owned,Owned,0,
+"C7,C8,C9",3,100nF,,Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical,,,,,,Owned,Owned,0,
+C10,1,10nF,,Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical,,,,,,Owned,Owned,0,
+"C11,C12",2,10pf,,Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical,,,,,,Owned,Owned,0,
+CN1,1,PJ-3200,,static:AUDIO-TH_PJ-3200,,,,,https://www.lcsc.com/datasheet/C2689690.pdf,included in kit,included in kit,0,
+J1,1,0.96in OLED Display,,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,,,,,,https://www.aliexpress.us/item/3256806022799299.html?spm=a2g0o.productlist.main.1.21b7BKMyBKMyCV&algo_pvid=1c8fa0af-e916-458c-86e3-0e107aec1efd&algo_exp_id=1c8fa0af-e916-458c-86e3-0e107aec1efd-0&pdp_ext_f=%7B%22order%22%3A%22274%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%213.48%212.33%21%21%2123.16%2115.52%21%402101e75417899220153943078e0d90%2112000036304751814%21sea%21US%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A2a9d23e2%3Bm03_new_user%3A-29895&curPageLogUid=FwapZcyoFvRJ&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006209114051%7C_p_origin_prod%3A,Aliexpress,3,
+J2,1,MicroSD Card Module,,Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical,,,,,,https://www.aliexpress.us/item/2251832601364265.html?spm=a2g0o.productlist.main.3.7dc9uxbmuxbmpg&algo_pvid=eb0b0031-5e83-4aa1-af78-c304453724ad&algo_exp_id=eb0b0031-5e83-4aa1-af78-c304453724ad-2&pdp_ext_f=%7B%22order%22%3A%221962%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%211.66%211.53%21%21%211.66%211.53%21%402103128917899222202845181e1020%2163278695202%21sea%21US%214570435753%21X%211%210%21n_tag%3A-29911%3Bd%3A2a9d23e2%3Bm03_new_user%3A-29895%3BpisId%3A5000000217788162&curPageLogUid=IZeHAfpDRn8G&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A32787679017%7C_p_origin_prod%3A,Aliexpress,2,
+J4,1,Speaker 1,,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,,,,,,included in kit,included in kit,0,
+J5,1,Speaker 2,,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,,,,,,included in kit,included in kit,0,
+"R1,R2",2,10K,,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,,,,,,Owned,Owned,0,
+"RV1,RV2",2,R_Potentiometer,,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,,,,,,included in kit,included in kit,0,
+"SW3,SW4,SW5,SW6",4,SW_Push,,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,,,,,,Owned,Owned,0,
+U1,1,XIAO-RP2040-DIP,,static:XIAO-RP2040-DIP,,,,,,included in kit,included in kit,0,
+U2,1,RDA5807MRRD-102V2.0,,static:RDA5807,,,,,https://www.lcsc.com/datasheet/C9900205627.pdf,included in kit,included in kit,0,
+U3,1,TDA2822NBD,,Package_DIP:DIP-8_W7.62mm,,,,,https://www.lcsc.com/datasheet/C51927337.pdf,included in kit,included in kit,0,
+U4,1,TSOP38238,,ir sensor:TSOP382,,,,,https://www.vishay.com/doc?82491,https://www.aliexpress.us/item/2251832763007870.html?spm=a2g0o.productlist.main.1.5a927270liPEhC&algo_pvid=2e01e659-6c85-4c78-95a3-fde1250ffe2f&algo_exp_id=2e01e659-6c85-4c78-95a3-fde1250ffe2f-0&pdp_ext_f=%7B%22order%22%3A%22687%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%212.23%212.05%21%21%212.23%212.05%21%4021030dcd17899263611602681e0e7e%2166318108356%21sea%21US%214570435753%21X%211%210%21n_tag%3A-29911%3Bd%3A2a9d23e2%3Bm03_new_user%3A-29895%3BpisId%3A5000000217788162&curPageLogUid=QRFDtZ5iDDtf&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A32949322622%7C_p_origin_prod%3A,Aliexpress,5,
+U5,1,SX1278,,Package_DFN_QFN:QFN-28-1EP_6x6mm_P0.65mm_EP4.8x4.8mm,,,,,https://semtech.my.salesforce.com/sfc/p/#E0000000JelG/a/2R0000001Rbr/6EfVZUorrpoKFfvaF_Fkpgp5kzjiNyiAbqcpqh9qSjE,https://www.digikey.com/en/products/detail/semtech-corporation/SX1278IMLTRT/5226772?gclsrc=aw.ds&gad_source=1&gad_campaignid=20228387720&gbraid=0AAAAADrbLlhSKrgc1DKjCKkIkqc2zRt6S&gclid=CjwKCAjwiL7VBhA-EiwAhZi9EK9HUFn6RVi2xjR5MEzwxnxAokhihf1NeRGP0FvHPSJvQvasGmaf9xoCrZgQAvD_BwE,Digikey,8,
+Y2,1,32 MHz Crystal,,Crystal:Crystal_AT310_D3.0mm_L10.0mm_Horizontal,,,,,,https://www.mouser.com/en/ProductDetail/ABRACON/ABL-32000MHZ-B2?qs=zLkLEWnxMJxB%252Bk6YRBW6NQ%3D%3D&mgh=1&srsltid=AU7gw4WyZKOzjwaPyc6Lr6cG9CJK1LC1SkiEhbK5kH6oGrAfSkGuXUV5HAs,Mouser,1,
+PCB,5,,,,,,,,,,JLCPCB,4,
+,,,,,,,,,,,Shipping,8,JLCPCB
+,,,,,,,,,,,,7,Aliexpress
+,,,,,,,,,,,,8,Digikey
+,,,,,,,,,,,,8,Mouser
+,,,,,,,,,,,Total Cost:,58,
