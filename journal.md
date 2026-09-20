@@ -46,4 +46,5 @@ I faced quite a few problems, first of all, i had trouble finding the footprint 
 <img width="1211" height="606" alt="Screenshot 2026-09-20 at 2 40 43 PM" src="https://github.com/user-attachments/assets/d3bc4d65-dc44-4133-83f6-dce56819b65d" />
 <img width="742" height="496" alt="Screenshot 2026-09-20 at 2 41 09 PM" src="https://github.com/user-attachments/assets/bb6c9575-4ae5-4b9f-9e93-6ba10da8e549" />
 <img width="742" height="496" alt="Screenshot 2026-09-20 at 2 41 28 PM" src="https://github.com/user-attachments/assets/ba53e9df-230c-4e91-a51e-5ae14f48ed95" />
+#### note
 There was no CAD Case built for this project, so the case can be built later on once the antenna and potentiometer + button placement can be visualized. (I haven't decided on the button placement for this project yet, so I don't want to constrain placement just yet. Once it is assembled, a case will be built.)
