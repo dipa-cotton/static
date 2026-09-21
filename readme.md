@@ -1,3 +1,4 @@
+
 # static
 custom FM Radio, with a SX1278 for LoRA capabilities!
 
@@ -6,8 +7,8 @@ this FM radio contains a RDA5807, TDA2822, an infrared sensor, and a SX1278. the
 
 ## pictures
 <img width="1211" height="606" alt="Screenshot 2026-09-20 at 2 40 43 PM" src="https://github.com/user-attachments/assets/d3bc4d65-dc44-4133-83f6-dce56819b65d" />
-<img width="742" height="496" alt="Screenshot 2026-09-20 at 2 41 09 PM" src="https://github.com/user-attachments/assets/bb6c9575-4ae5-4b9f-9e93-6ba10da8e549" />
-<img width="742" height="496" alt="Screenshot 2026-09-20 at 2 41 28 PM" src="https://github.com/user-attachments/assets/ba53e9df-230c-4e91-a51e-5ae14f48ed95" />
+<img width="896" height="660" alt="Screenshot 2026-09-21 at 4 08 50 PM" src="https://github.com/user-attachments/assets/dd7f2c42-8230-4e61-a77a-edbfea7fecf7" />
+<img width="787" height="521" alt="Screenshot 2026-09-21 at 4 09 12 PM" src="https://github.com/user-attachments/assets/65c87e70-6774-4d16-b979-b8f702ce4640" />
 There was no CAD Case built for this project, so the case can be built later on once the antenna and potentiometer + button placement can be visualized. (I haven't decided on the button placement for this project yet, so I don't want to constrain placement just yet. Once it is assembled, a case will be built.)
 
 ## BOM Overview
